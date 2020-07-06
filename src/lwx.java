@@ -1,4 +1,4 @@
-package pl;
+package src;
 
 public class lwx {
     public static void main(String [] args){
